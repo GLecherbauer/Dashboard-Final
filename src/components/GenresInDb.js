@@ -12,52 +12,52 @@ function GenresInDb() {
         <div className="card-body">
           <div className="row">
             <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
+              <div className="card text-white shadow" style={{ backgroundColor: "#a7cdcc" }}>
                 <div className="card-body">Taragui</div>
               </div>
             </div>
             <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
+              <div className="card text-white shadow" style={{ backgroundColor: "#a7cdcc" }}>
                 <div className="card-body">Stanley</div>
               </div>
             </div>
             <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
+              <div className="card text-white shadow" style={{ backgroundColor: "#a7cdcc" }}>
                 <div className="card-body">La merced</div>
               </div>
             </div>
             <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
+              <div className="card text-white shadow" style={{ backgroundColor: "#a7cdcc" }}>
                 <div className="card-body">Waterdog</div>
               </div>
             </div>
             <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
+              <div className="card text-white shadow" style={{ backgroundColor: "#a7cdcc" }}>
                 <div className="card-body">Playadito</div>
               </div>
             </div>
             <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
+              <div className="card text-white shadow" style={{ backgroundColor: "#a7cdcc" }}>
                 <div className="card-body">Descovery</div>
               </div>
             </div>
             <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
+              <div className="card text-white shadow" style={{ backgroundColor: "#a7cdcc" }}>
                 <div className="card-body">Rosamonte</div>
               </div>
             </div>
             <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
+              <div className="card bg text-white shadow" style={{ backgroundColor: "#a7cdcc" }}>
                 <div className="card-body">Lumilagro</div>
               </div>
             </div>
             <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
+              <div className="card text-white shadow" style={{ backgroundColor: "#a7cdcc" }}>
                 <div className="card-body">Mañanita</div>
               </div>
             </div>
             <div className="col-lg-6 mb-4">
-              <div className="card bg-dark text-white shadow">
+              <div className="card text-white shadow" style={{ backgroundColor: "#a7cdcc" }}>
                 <div className="card-body">Thermos</div>
               </div>
             </div>
