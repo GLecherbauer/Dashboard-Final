@@ -2,8 +2,6 @@ import React, {useEffect, useState} from 'react';
 import ChartRow from './ChartRow';
 
 
-
-
 function Chart (){
 
     const [products, setProducts] = useState([])

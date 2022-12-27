@@ -7,6 +7,7 @@ import ContentRowMovies from './ContentRowMovies';
 import NotFound from './NotFound';
 import SearchMovies from './SearchMovies';
 import {Link, Route, Routes} from 'react-router-dom';
+import Usuarios from './Usuarios';
 
 
 function SideBar(){
@@ -92,7 +93,7 @@ function SideBar(){
             <Routes>
                 <Route exact path="/" element = { <ContentWrapper />}/>
                 <Route path="/GenresInDb" element = { <GenresInDb />}/>
-                <Route path="/LastMovieInDb" element = { <LastMovieInDb />}/>  
+                <Route path="/LastMovieInDb" element = { <Usuarios />}/>  
                 <Route path="/ContentRowMovies" element = { <ContentRowMovies />}/>
                 <Route path="/SearchMovies" element = { <SearchMovies />}/>
                 <Route element = {NotFound}/>    
